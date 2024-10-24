@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "types.h": "c",
+        "in.h": "c",
+        "netdb.h": "c",
+        "inet.h": "c"
+    }
+}
